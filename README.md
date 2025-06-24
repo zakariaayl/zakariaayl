@@ -1,6 +1,6 @@
-# Hi there, I'm Ayoub
+# Hi there, I'm Zakaria
 
-## 🚀 About Me:
+##  About Me:
 I'm a passionate Computer Engineering student exploring the exciting world of Artificial Intelligence, Game Development, and Full-Stack Web Applications.
 
 - 🎯 Currently working on AI-powered games and smart route optimization.
@@ -8,7 +8,7 @@ I'm a passionate Computer Engineering student exploring the exciting world of Ar
 - 🤝 Looking to collaborate on AI, Machine Learning, and Web projects.
 - 💬 Ask me about Python, Spring Boot, Angular, and AI/ML.
 
-## 🛠️ Tech Stack:
+##  Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -21,14 +21,8 @@ I'm a passionate Computer Engineering student exploring the exciting world of Ar
 
 ## 📊 GitHub Stats:
 
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayougil&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayougil&theme=radical)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayougil&layout=compact&theme=radical)
-
 ## 🖼️ 3D Contribution Graph:
 
-![3D Contribution Graph](https://github.com/zakariaayl/profile-3d-contrib/blob/main/profile-night-rainbow.svg)
+![3D Contribution Graph](https://github.com/zakariaayl/zakariaayl/blob/main/profile-3d-contrib/profile-season.svg)
 
 
