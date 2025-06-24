@@ -41,9 +41,6 @@ I'm a passionate Computer Engineering student exploring the exciting world of Ar
 
 
 
-
-## 📊 GitHub Stats:
-
 ## 🖼️ 3D Contribution Graph:
 
 ![3D Contribution Graph](https://github.com/zakariaayl/zakariaayl/blob/main/profile-3d-contrib/profile-gitblock.svg)
