@@ -40,6 +40,6 @@ I'm a passionate Computer Engineering student exploring the exciting world of Ar
 ![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
-![3D Contribution Graph](https://github.com/zakariaayl/zakariaayl/blob/main/profile-3d-contrib/profile-gitblock.svg)
+![3D Contribution Graph](https://github.com/zakariaayl/zakariaayl/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 
