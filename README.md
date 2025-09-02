@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&color=FFFFFF&background=77EEF2&center=true&vCenter=true&width=850&height=70&lines=+Zakariae+Ayougil;+Development+%7C+Cloud+%7C+AI;+Building+Scalable+Solutions" />
-</h1>
+<div style="border: 3px solid #77EEF2; display: inline-block; padding: 5px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&color=77EEF2&border=77EEF2&center=true&vCenter=true&width=850&height=70&lines=+Zakariae+Ayougil;+Development+%7C+Cloud+%7C+AI;+Building+Scalable+Solutions&border=77EEF2" />
+</div>
+
+
 
 ##  About Me:
 I'm a passionate Computer Engineering student exploring the exciting world of Artificial Intelligence, Game Development, and Full-Stack Web Applications.
