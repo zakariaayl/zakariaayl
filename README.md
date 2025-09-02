@@ -1,12 +1,14 @@
-# Hi there, I'm Zakaria
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=+Zakariae+Ayougil;+Development+%7C+Cloud+%7C+AI;+Building+Scalable+Solutions" />
+</h1>
 
 ##  About Me:
 I'm a passionate Computer Engineering student exploring the exciting world of Artificial Intelligence, Game Development, and Full-Stack Web Applications.
 
-- 🎯 Currently working on AI-powered games and smart route optimization.
-- 🌱 Learning DevOps, Docker, and Reinforcement Learning.
-- 🤝 Looking to collaborate on AI, Machine Learning, and Web projects.
-- 💬 Ask me about Python, Spring Boot, Angular, and AI/ML.
+-  Currently working on AI-powered games and smart route optimization.
+-  Learning DevOps, Docker, and Reinforcement Learning.
+-  Looking to collaborate on AI, Machine Learning, and Web projects.
+-  Ask me about Python, Spring Boot, Angular, and AI/ML.
 
 ##  Tech Stack:
 
