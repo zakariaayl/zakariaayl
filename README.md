@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&color=77EEF2&center=true&vCenter=true&width=850&height=70&lines=+Zakariae+Ayougil;+Development+%7C+Cloud+%7C+AI;+Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&color=FFFFF&background=77EEF2&center=true&vCenter=true&width=850&height=70&lines=+Zakariae+Ayougil;+Development+%7C+Cloud+%7C+AI;+Building+Scalable+Solutions" />
 </h1>
 
 ##  About Me:
